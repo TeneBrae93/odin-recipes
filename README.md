@@ -1,0 +1,1 @@
+This is my first project through The Odin Project. I will be creating a basic recipe website and will further customize it later in the course with CSS and Javascript. 
